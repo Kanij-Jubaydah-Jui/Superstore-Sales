@@ -6,7 +6,7 @@ This project demonstrates RFM (Recency, Frequency and Monetary) segmentation usi
 
 ## Files
 - `Superstore_Sales_Data.csv`: The raw sales data file.
-- `Create_database.sql`: This SQL script will create the database and tables.
+- `Create_database & Bulk Insertion.sql`: This SQL script will create the database and tables.
 - `Exploring and cleaning the data.sql`: Exploring the data and checking if all the data is in proper format then doing the necessary cleaning and update the table.
 - `EDA (Exploratory Data Analysis).sql`: This will perform Exploratory Data Analysis.
 - `RFM (Recency, Frequency, Monetary) segmentation.sql`: Segment the customer using RFM segmentation.
