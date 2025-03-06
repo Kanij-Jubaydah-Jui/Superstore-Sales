@@ -28,7 +28,7 @@ The goal is to:
 - Created a database in MySQL and imported the Superstore Sales Data.
 - Checked for missing values, incorrect data formats and inconsistencies. Updated table schema and cleaned data for better analysis.
 - Analyzed customer purchasing trends, sales distribution and order patterns.
-- Identified outliers and anomalies in sales, discounts and profits.
+- Identified outliers and anomalies in sales and profits.
 - I calculated the three key metrics for each customer:
   Recency (R) – How recently did the customer make a purchase?
   Frequency (F) – How often do they make purchases?
